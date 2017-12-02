@@ -2,7 +2,7 @@ FROM quay.io/pires/docker-jre:8u151
 
 LABEL maintainer pjpires@gmail.com
 
-ENV HBASE_VERSION 1.3.0
+ENV HBASE_VERSION 1.3.1
 
 # Download and prepare HBase installation
 RUN mkdir -p /opt ; \
