@@ -1,4 +1,4 @@
-FROM quay.io/pires/docker-jre:8u112_1
+FROM quay.io/pires/docker-jre:8u151
 
 LABEL maintainer pjpires@gmail.com
 
